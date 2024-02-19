@@ -5,6 +5,9 @@
 <!-- header from 'https://github.com/kyechan99/capsule-render?tab=readme-ov-file' -->
 ![header](https://capsule-render.vercel.app/api?height=150&type=waving&color=auto&text=Welcome%20to%20subin's%20gitHub&fontSize=25&animation=twinkling&fontAlign=25&fontAlignY=70)
 ### Hi I'm subin 👋
+### Please check my <a href="https://mangosteen977.github.io/">portfolio</a> page!
+### Thank you!
+<br>
 
 ## 📚 Skills
 <!--github-readme-stats from 'https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file' -->
