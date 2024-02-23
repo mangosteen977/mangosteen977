@@ -25,6 +25,11 @@
         <img alt="vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
         <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
+     <!-- currently studying... -->
+     <p><strong>currently studying...</strong></p>
+    <div>
+        <img alt="react" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
+    </div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
     <div>
