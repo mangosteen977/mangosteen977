@@ -28,7 +28,8 @@
      <!-- currently studying... -->
      <p><strong>currently studying...</strong></p>
     <div>
-        <img alt="react" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
+        <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> 
+        <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
     </div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
