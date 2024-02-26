@@ -19,7 +19,7 @@
     <div>
         <img alt="html" src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img alt="css3" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-        <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white">
+        <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white">
         <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img alt="jquery" src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
         <img alt="vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
