@@ -29,7 +29,14 @@
      <p><strong>currently studying...</strong></p>
     <div>
         <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> 
-        <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
+        <img
+             alt="styled-components"
+             src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"
+          > 
+        <img 
+             alt="typescript"
+             src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"
+          > 
     </div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
